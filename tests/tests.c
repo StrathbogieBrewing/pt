@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "pt.h"
+#include "../pt.h"
 
 #include "ctest.h"
 
