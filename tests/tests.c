@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "../pt.h"
+#include "pt.h"
+
+// #define CTEST_ENABLED 1
 
 #include "ctest.h"
 
